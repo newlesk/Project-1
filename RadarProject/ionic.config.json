@@ -1,0 +1,7 @@
+{
+  "name": "RadarProject",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
