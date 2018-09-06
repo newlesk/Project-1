@@ -58,3 +58,6 @@
 - Node.js
 
 - Android Studio
+
+Trello Scrum Board
+Link: https://trello.com/b/5UQsPV8e/scrum
