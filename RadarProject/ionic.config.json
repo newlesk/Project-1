@@ -1,7 +1,0 @@
-{
-  "name": "RADAR",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular"
-}
