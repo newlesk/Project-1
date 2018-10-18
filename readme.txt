@@ -61,5 +61,3 @@
 
 Trello Scrum Board
 Link: https://trello.com/b/5UQsPV8e/scrum
-Simulation program
-Link : https://creator.ionic.io/share/2347c1b1ade5
